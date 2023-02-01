@@ -1,21 +1,11 @@
 ### Hi there 👋
-My name is Liao Xin, I am a student, I hope to become a backend engineer in the future, I am currently learning java, go and rust and related content. In the future, I will publish some small toys I learned on github.
+My name is Liao Xin, I am a student, I hope to become a backend engineer in the future. In the future, I will publish some small toys I learned on github.
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=liewstar&show_icons=true&theme=dark&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=liewstar&show_icons=true&theme=default&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liewstar&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liewstar&theme=default&layout=compact&hide=HTML)
 
-**liewstar/liewstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Java and Rust.
+- 📫 How to reach me: gulchtop@163.com
 
