@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Liao Xin, I am a student, I hope to become a backend engineer in the future, I am currently learning java, go and rust and related content. In the future, I will publish some small toys I learned on github.
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=liewstar&show_icons=true&theme=dark&count_private=true)
 
