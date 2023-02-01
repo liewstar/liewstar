@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<!--
+![Github Stats](https://github-readme-stats.vercel.app/api?username=liewstar&show_icons=true&theme=dark&count_private=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liewstar&theme=dark&layout=compact)
+
 **liewstar/liewstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
